@@ -13,7 +13,7 @@ Welcome to my repositories!
 ---
 
 ### 📊 Stats
-![](https://github.com/MikkiFrosty/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikkiFrosty)](https://github.com/MikkiFrosty/github-readme-stats)
 
 ---
 
